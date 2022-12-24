@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<current>
+	<ccy ccy="EUR"></ccy>
+	<base_ccy base_ccy="UAH"></base_ccy>
+	<buy buy="41.20000"></buy>
+	<sale sale="42.20000"></sale>
+
+	<ccy ccy="USD"></ccy>
+	<base_ccy base_ccy="UAH"></base_ccy>
+	<buy buy="39.70000" ></buy>
+	<sale sale="40.20000"></sale>
+	
+	
+</current>
